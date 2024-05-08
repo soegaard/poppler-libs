@@ -1,0 +1,10 @@
+poppler-aarch64-macosx
+
+The Racket code in this package is distributed under the Apache 2.0
+and MIT licenses. The user can choose the license under which they
+will be using the software. There may be other licenses within the
+distribution with which the user must also comply.
+
+Poppler is released under the GNU General Public License (GNU GPL).
+
+Poppler is released under the GNU General Public License (GNU GPL).
